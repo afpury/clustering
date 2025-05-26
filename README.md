@@ -9,9 +9,9 @@ This repository contains hands-on implementations and visualizations of several 
 ```
 .
 ├── k-means.ipynb                  # K-Means Clustering
-├── em_clustering_mnist.ipynb      # EM Clustering using binary MNIST
+├── EM Clustering.ipynb      # EM Clustering using binary MNIST
 ├── dendogram.ipynb                # Hierarchical Clustering with dendrogram
-├── fuzzy_kmeans_clustering.ipynb  # Fuzzy K-Means Clustering
+├── fuzzy k-means.ipynb  # Fuzzy K-Means Clustering
 └── README.md
 ```
 
